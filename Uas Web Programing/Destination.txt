@@ -1,0 +1,86 @@
+<html>
+ <head>
+ 
+  <title> Destination </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="http://assets.razerzone.com/favicon.ico" type="image/x-icon" />
+  
+ </head>
+ 
+ 
+ <body>
+   <div id="banner"> </div>
+   
+   <div id="menu">
+   
+     <!-- content awal -->
+	 <table width="100%" border="0">
+	   <tr>
+	    	<td align="center" width="20%"><a href="Home.html"> Home </a></td>
+		<td align="center" width="20%"><a href="Product.html"> Destination </a></td>
+       	     	<td align="center" width="20%"><a href="Promosi.html"> Promotion </a></td>
+        	<td align="center" width="20%"><a href="Tentang.html"> About </a></td>
+		<td align="center" width="20%"><a href="Contact Us.html"> Contact Us </a></td>
+	   </tr>
+	 </table>
+	 <!-- content akhir -->
+   
+   </div>
+   
+   <div id="content">
+	 <!-- content awal -->
+		  	  
+	    <h1>Destination</h1>
+			<table border="0" cellpadding="5" cellspacing="1">
+				<tr>
+					<td valign="top"><img src="img/cl.jpg"></td>
+					<td valign="top">
+					<h2>Bali, Indonesia</h2>
+					<p class="pone">Bali is an Indonesian island known for its forested volcanic mountains, iconic rice paddies, beaches and coral reefs. The island is home to religious sites such as cliffside Uluwatu Temple. To the south, the beachside city of Kuta has lively bars, while Seminyak, Sanur and Nusa Dua are popular resort towns. The island is also known for its yoga and meditation retreats.</p></td>
+				</tr>
+				<tr>
+					<td valign="top"><img src="img/ts.jpg"></td>
+					<td valign="top">
+					<h2>Yamaha Gitar Elektrik / Listrik RGX121Z </h2>
+					<p class="pone">"Yamaha Gitar Elektrik / Listrik RGX121Z" YAMAHA GITAR ELEKTRIK RGX121Z
+					RGX121Z, mewarisi filosofi desain dari RGX series tipe teratas & menambahkan single coil pickup dan tremolo dengan gaya vintage, mampu memberikan total fleksibilitas dan kontrol suara.
+
+					Controls
+					- 5P Pickup Selector
+					- Master Volume
+					- Master Tone.</p></td>
+				</tr>
+				<tr>
+					<td valign="top"><img src="img/rt.jpg"></td>
+					<td valign="top">
+					<h2>Yamaha PSR-F51 Portable Keyboard</h2>
+					<p class="pone">Yamaha PSR-F51 Portable Keyboard merupakan portable keyboard yang didesain user-friendly dengan 61 tombol, 100 suara, dan 120 style. Dirancang dengan menggunakan panel intuitif, cukup pilih suara dan irama untuk mulai bermain. Compact dan ringan dengan 120 voices dan 114 Rhythms. Ideal untuk beginners and students serta dilengkapi dengan baterai sehingga dapat digunakan saat tidak tersedia daya listrik. </p></td>
+				</tr>
+				<tr>
+					<td valign="top"><img src="img/he.jpg"></td>
+					<td valign="top">
+					<h2>PSR EW300</h2>
+					<p class="pone">PSR EW300 adalah pengembangan dari Yamaha YPG235 yang terkenal dengan sentuhan tuts yang sensitif yang membawa anda ke level selanjutnya. Dengan 48 note polyphony dilengkapi dengan 574 voice yang lebih baik dari sebelumnya dan 165 auto accompaniment yang akan membantu anda perform laebih baik, dengan 150 arpeggio akan memberikan warna yang lebih pada permainan. Lengkap dengan beragam fungsi, sound system yang bai, lebar dan 76 keys dengan touch yang sensitif, PSR EW300 adalah pilihan terbaik untuk pianist pemula. Dilengkapi dengan 574 Voices dan 165 auto accompaniment. Dengan DUO MODE dapat dimainkan bersama teman atau guru untuk belajar. Juga dilengkapi dengan AUX IN agar dapat diambung dengan audio external juga dapat disambungkan ke komputer dengan sambungan USB to HOST.</p></td>
+				</tr>
+				<tr>
+					<td valign="top"><img src="img/sp.jpg"></td>
+					<td valign="top">
+					<h2>Drum Yamaha Stage Custom Birch Set Original</h2>
+					<p class="pone">~ALL BIIRCH 6PLY (100% BIRCH), Shell drum merupakann faktor kunci menghasilkan resonasi, Demikian juga stage custom yang 100% menggunakan kayu birch. Strukture 6-ply nya menghasilkan vibrasi yang baik pada pukulan di permukaan.
+					~Boom Cymbal stand diadopsi dari desain terbaru boom tillter yang meningkatkan stabilitas dan pengaturan
+					~Center tillter dapat disesuaikan posisinya untuk kebutuhan artikulasi pemain</p></td>
+				</tr>
+			</table>
+		
+		
+	  
+	 <!-- content akhir -->
+	 
+	  </div>
+	  
+   </div>
+   
+   <div id="footer"><p><br><br><br> CopyRight &copy; Hendry Kurniawan </p></div>
+ </body>
+
+</html>
